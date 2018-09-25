@@ -1,4 +1,4 @@
-BOJ_Solution
+BOJ_Solution(공사중)
 ===========
 
 - BOJ(BAEKJOON Online Judge) solution by timetobye
