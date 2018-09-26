@@ -24,7 +24,7 @@ DFS & BFS
 
 Dynamic Programming
 ==================================================
-- 
+- LCS : https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%9E%A5_%EA%B3%B5%ED%86%B5_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4
 
 Math
 ==================================================
