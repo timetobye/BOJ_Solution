@@ -36,6 +36,12 @@ for number in find_number_list:
 
 print(all_count)
 
+"""
+참고
+https://godoftyping.wordpress.com/tag/%EC%96%91%EB%B0%A9%ED%96%A5-%ED%81%90/
+http://simsimjae.tistory.com/3
+http://simsimjae.tistory.com/4
+"""
 
 
 
