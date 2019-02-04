@@ -1,16 +1,59 @@
-dp = [0,0] # 시작 위치는 0,0으로 설정, 동전 문제 푸는 것과 유사하게 접근함
+# bottom-up
+n = int(input())
+dp = [0 for x in range(n+1)]
+
+for i in range(2, n+1):
+    dp[i] = dp[i - 1] + 1
+    if i % 2 == 0:
+        dp[i] = min(dp[i], dp[i // 2] + 1)
+    if i % 3 == 0:
+        dp[i] = min(dp[i], dp[i // 3] + 1)
+
+print(dp[n])
+
+
+# top-down(but, runtime error)
+
+import sys
+sys.setrecursionlimit(100000000)
 
 n = int(input())
+dp = [None for x in range(n+1)]
+dp[0] = 0
+dp[1] = 0
 
-for i in range(2,n+1): # 2부터 n 까지 수열 정리
-    temp = []
-    temp.append(dp[i-1]+1) # 1차이는 무조건 되니까 넣고
-    if i % 2 == 0:
-        temp.append(dp[i//2]+1) # 2로 나누어 떨어지는지는 확인
-    if i % 3 == 0:
-        temp.append(dp[i//3]+1) # 3으로 나누어 떨어지는지도 확인
-    dp.append(min(temp)) # 그 중 최소값
-print(dp[n]) # n번째 출력
+
+def calc_dp(i):
+    if dp[i] is None:
+        dp[i] = calc_dp(i - 1) + 1
+        if i % 2 == 0:
+            dp[i] = min(dp[i], calc_dp(i // 2) + 1)
+        if i % 3 == 0:
+            dp[i] = min(dp[i], calc_dp(i // 3) + 1)
+
+    return dp[i]
+
+
+print(calc_dp(n))
+
+
+
+
+
+
+# dp = [0,0] # 시작 위치는 0,0으로 설정, 동전 문제 푸는 것과 유사하게 접근함
+#
+# n = int(input())
+#
+# for i in range(2,n+1): # 2부터 n 까지 수열 정리
+#     temp = []
+#     temp.append(dp[i-1]+1) # 1차이는 무조건 되니까 넣고
+#     if i % 2 == 0:
+#         temp.append(dp[i//2]+1) # 2로 나누어 떨어지는지는 확인
+#     if i % 3 == 0:
+#         temp.append(dp[i//3]+1) # 3으로 나누어 떨어지는지도 확인
+#     dp.append(min(temp)) # 그 중 최소값
+# print(dp[n]) # n번째 출력
 
 '''
 참고한 코드
