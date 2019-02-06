@@ -1,15 +1,43 @@
-n = int(input())
-value = [int(x) for x in input().split()]
-value.insert(0,0) # 계산 편의를 위해 가격 앞에 0을 넣었음
+"""
+dp[i] : i개 카드를 살 때의 최댓값
+
 dp = [0 for x in range(n+1)]
-for i in range(1, n+1): # 몇 개를 팔 것인가?
-    for j in range(1,i+1): # 어떻게 팔 것인가? 나눠서 팔 것인가, 한 꺼번에 다 팔 거인가, 분할 계산
-        dp[i] = max(dp[i], dp[i-j] + value[j])
+dp[i] = max(dp[i], dp[i-j] + arr[j]
+
+how to ...?
+손으로 직접 써보면서 점화식을 유도해보았다.
+
+1. 카드 1개를 사는 경우
+카드 0개를 사는 경우의 최댓값 + 카드 1개를 살 때의 값
+- dp[1] = dp[1-1] + arr[1]
+
+2. 카드 2개를 사는 경우
+카드 2개를 사는 경우의 최댓값 + 카드 0개를 살 때의 값
+- dp[2] = dp[2-0] + arr[0]
+
+카드 1개를 사는 경우의 최댓값 + 카드 1개를 살 때의 값
+- dp[2] = dp[2-1] + arr[1]
+
+카드 0개를 사는 경우의 최댓값 + 카드 2개를 살 때의 값
+- dp[2] = dp[2-2] + arr[2]
+
+dp[2] = max(2개를 사는 경우 중 최댓값)
+
+3. 반복한다.
+
+편의를 위해 arr에 insert(0,0) 처리를 하였다.
+
+"""
+
+
+n = int(input())
+arr = [int(x) for x in input().split()]
+arr.insert(0, 0)
+
+dp = [0 for x in range(n+1)]
+
+for i in range(1, n+1):
+    for j in range(1, i+1):
+        dp[i] = max(dp[i], dp[i-j] + arr[j])
+
 print(dp[n])
-
-'''
-
-http://jaemin8852.tistory.com/168
-이분의 글을 참고하여 풀이를 하였습니다.
-
-'''
