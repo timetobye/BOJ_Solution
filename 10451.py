@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 sys.setrecursionlimit(10**6)
 
@@ -84,4 +83,3 @@ if __name__ == "__main__":
         arr = [int(x) for x in input().split()]
         arr.insert(0, 0)
         get_cycle(n, arr)
->>>>>>> efd0c3f840f861aa73246995377837bd58f76b77
