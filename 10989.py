@@ -1,20 +1,16 @@
 import sys
 
 n = int(sys.stdin.readline())
-lst = []
+
+arr = [0 for i in range(10000 + 1)]
 for i in range(n):
-    t = int(sys.stdin.readline())
-    lst.append(t)
+    value = int(sys.stdin.readline())
 
-asdf = {} # 사실 이렇게 쓰면 안 된다...;;;;
-for x in lst:
-    if x not in asdf:
-        asdf[x] = 1
-    else:
-        asdf[x] += 1
+    arr[value] += 1
 
-result = sorted(asdf.items())
+for i, value in enumerate(arr):
+    if value == 0:
+        continue
 
-for j in range(len(result)):
-    for m in range(result[j][1]):
-        print(result[j][0])
+    for _ in range(value):
+        print(i)
