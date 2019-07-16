@@ -8,28 +8,262 @@ BOJ_Solution(공사중)
   - 도움의 손길이 필요한 파이썬 초보입니다.
   - 풀이 내역을 보시고 거침 없는 의견 부탁드려요. 데헷~!
 
-
 Algorithm Summary
 ==================================================
 - 문제를 풀면서 접했던 개념들에 대한 정리
 - 링크 또는 이해한 내용을 적어두는 공간
 
-구현
-==================================================
--
 
-DFS & BFS
-==================================================
--
-
-Dynamic Programming
-==================================================
-- LCS : https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%9E%A5_%EA%B3%B5%ED%86%B5_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4
-
-Math
-==================================================
-- 
-
-얍
-==================================================
-http://coderkoo.tistory.com/10
+## 스터디 자료
+|알고리즘 종류|문항번호|문제 이름|성공 여부|비고|
+|---|---|---|---|---|
+|DP|[1003](https://github.com/timetobye/BOJ_Solution/blob/master/1003.py)|피보나치 함수|성공| |
+|위상 정렬|[1005](https://github.com/timetobye/BOJ_Solution/blob/master/1005.py)|ACM CRAFT|성공| |
+|사칙연산, 수학|[1008](https://github.com/timetobye/BOJ_Solution/blob/master/1008.py)|A/B|성공| |
+||[1009](https://github.com/timetobye/BOJ_Solution/blob/master/1009.py)|분산처리|성공| |
+|DP|[1010](https://github.com/timetobye/BOJ_Solution/blob/master/1010.py)|다리놓기|성공| |
+||[1011](https://github.com/timetobye/BOJ_Solution/blob/master/1011.py)|Fly me to the Alpha Centauri|성공| |
+|알고리즘|[1012](https://github.com/timetobye/BOJ_Solution/blob/master/1012.py)|이름|성공| |
+|알고리즘|[1016](https://github.com/timetobye/BOJ_Solution/blob/master/1016.py)|이름|성공| |
+|알고리즘|[10026](https://github.com/timetobye/BOJ_Solution/blob/master/10026.py)|이름|성공| |
+|알고리즘|[10164](https://github.com/timetobye/BOJ_Solution/blob/master/10164.py)|이름|성공| |
+|알고리즘|[10172](https://github.com/timetobye/BOJ_Solution/blob/master/10172.py)|이름|성공| |
+|알고리즘|[1018](https://github.com/timetobye/BOJ_Solution/blob/master/1018.py)|이름|성공| |
+|알고리즘|[1019](https://github.com/timetobye/BOJ_Solution/blob/master/1019.py)|이름|성공| |
+|알고리즘|[1021](https://github.com/timetobye/BOJ_Solution/blob/master/1021.py)|이름|성공| |
+|알고리즘|[10250](https://github.com/timetobye/BOJ_Solution/blob/master/10250.py)|이름|성공| |
+|알고리즘|[1026](https://github.com/timetobye/BOJ_Solution/blob/master/1026.py)|이름|성공| |
+|알고리즘|[1037](https://github.com/timetobye/BOJ_Solution/blob/master/1037.py)|이름|성공| |
+|알고리즘|[1038](https://github.com/timetobye/BOJ_Solution/blob/master/1038.py)|이름|성공| |
+|알고리즘|[10430](https://github.com/timetobye/BOJ_Solution/blob/master/10430.py)|이름|성공| |
+|알고리즘|[10451](https://github.com/timetobye/BOJ_Solution/blob/master/10451.py)|이름|성공| |
+|알고리즘|[10569](https://github.com/timetobye/BOJ_Solution/blob/master/10569.py)|이름|성공| |
+|알고리즘|[1057](https://github.com/timetobye/BOJ_Solution/blob/master/1057.py)|이름|성공| |
+|알고리즘|[10699](https://github.com/timetobye/BOJ_Solution/blob/master/10699.py)|이름|성공| |
+|알고리즘|[10773](https://github.com/timetobye/BOJ_Solution/blob/master/10773.py)|이름|성공| |
+|알고리즘|[10797](https://github.com/timetobye/BOJ_Solution/blob/master/10797.py)|이름|성공| |
+|알고리즘|[10798](https://github.com/timetobye/BOJ_Solution/blob/master/10798.py)|이름|성공| |
+|알고리즘|[10799](https://github.com/timetobye/BOJ_Solution/blob/master/10799.py)|이름|성공| |
+|알고리즘|[10820](https://github.com/timetobye/BOJ_Solution/blob/master/10820.py)|이름|성공| |
+|알고리즘|[10824](https://github.com/timetobye/BOJ_Solution/blob/master/10824.py)|이름|성공| |
+|알고리즘|[10826](https://github.com/timetobye/BOJ_Solution/blob/master/10826.py)|이름|성공| |
+|알고리즘|[10835](https://github.com/timetobye/BOJ_Solution/blob/master/10835.py)|이름|성공| |
+|알고리즘|[10844](https://github.com/timetobye/BOJ_Solution/blob/master/10844.py)|이름|성공| |
+|알고리즘|[10866](https://github.com/timetobye/BOJ_Solution/blob/master/10866.py)|이름|성공| |
+|알고리즘|[10869](https://github.com/timetobye/BOJ_Solution/blob/master/10869.py)|이름|성공| |
+|알고리즘|[10870](https://github.com/timetobye/BOJ_Solution/blob/master/10870.py)|이름|성공| |
+|알고리즘|[10886](https://github.com/timetobye/BOJ_Solution/blob/master/10886.py)|이름|성공| |
+|알고리즘|[10926](https://github.com/timetobye/BOJ_Solution/blob/master/10926.py)|이름|성공| |
+|알고리즘|[1094](https://github.com/timetobye/BOJ_Solution/blob/master/1094.py)|이름|성공| |
+|알고리즘|[10950](https://github.com/timetobye/BOJ_Solution/blob/master/10950.py)|이름|성공| |
+|알고리즘|[10951](https://github.com/timetobye/BOJ_Solution/blob/master/10951.py)|이름|성공| |
+|알고리즘|[10952](https://github.com/timetobye/BOJ_Solution/blob/master/10952.py)|이름|성공| |
+|알고리즘|[10953](https://github.com/timetobye/BOJ_Solution/blob/master/10953.py)|이름|성공| |
+|알고리즘|[10984](https://github.com/timetobye/BOJ_Solution/blob/master/10984.py)|이름|성공| |
+|알고리즘|[10989](https://github.com/timetobye/BOJ_Solution/blob/master/10989.py)|이름|성공| |
+|알고리즘|[1100](https://github.com/timetobye/BOJ_Solution/blob/master/1100.py)|이름|성공| |
+|알고리즘|[11005](https://github.com/timetobye/BOJ_Solution/blob/master/11005.py)|이름|성공| |
+|알고리즘|[11021](https://github.com/timetobye/BOJ_Solution/blob/master/11021.py)|이름|성공| |
+|알고리즘|[11022](https://github.com/timetobye/BOJ_Solution/blob/master/11022.py)|이름|성공| |
+|알고리즘|[11047](https://github.com/timetobye/BOJ_Solution/blob/master/11047.py)|이름|성공| |
+|알고리즘|[11048](https://github.com/timetobye/BOJ_Solution/blob/master/11048.py)|이름|성공| |
+|알고리즘|[11050](https://github.com/timetobye/BOJ_Solution/blob/master/11050.py)|이름|성공| |
+|알고리즘|[11051](https://github.com/timetobye/BOJ_Solution/blob/master/11051.py)|이름|성공| |
+|알고리즘|[11052](https://github.com/timetobye/BOJ_Solution/blob/master/11052.py)|이름|성공| |
+|알고리즘|[11053](https://github.com/timetobye/BOJ_Solution/blob/master/11053.py)|이름|성공| |
+|알고리즘|[11054](https://github.com/timetobye/BOJ_Solution/blob/master/11054.py)|이름|성공| |
+|알고리즘|[11055](https://github.com/timetobye/BOJ_Solution/blob/master/11055.py)|이름|성공| |
+|알고리즘|[11057](https://github.com/timetobye/BOJ_Solution/blob/master/11057.py)|이름|성공| |
+|알고리즘|[1110](https://github.com/timetobye/BOJ_Solution/blob/master/1110.py)|이름|성공| |
+|알고리즘|[11365](https://github.com/timetobye/BOJ_Solution/blob/master/11365.py)|이름|성공| |
+|알고리즘|[11399](https://github.com/timetobye/BOJ_Solution/blob/master/11399.py)|이름|성공| |
+|알고리즘|[1149](https://github.com/timetobye/BOJ_Solution/blob/master/1149.py)|이름|성공| |
+|알고리즘|[1157](https://github.com/timetobye/BOJ_Solution/blob/master/1157.py)|이름|성공| |
+|알고리즘|[11576](https://github.com/timetobye/BOJ_Solution/blob/master/11576.py)|이름|성공| |
+|알고리즘|[1158](https://github.com/timetobye/BOJ_Solution/blob/master/1158.py)|이름|성공| |
+|알고리즘|[1159](https://github.com/timetobye/BOJ_Solution/blob/master/1159.py)|이름|성공| |
+|알고리즘|[11650](https://github.com/timetobye/BOJ_Solution/blob/master/11650.py)|이름|성공| |
+|알고리즘|[11651](https://github.com/timetobye/BOJ_Solution/blob/master/11651.py)|이름|성공| |
+|알고리즘|[11652](https://github.com/timetobye/BOJ_Solution/blob/master/11652.py)|이름|성공| |
+|알고리즘|[11653](https://github.com/timetobye/BOJ_Solution/blob/master/11653.py)|이름|성공| |
+|알고리즘|[11655](https://github.com/timetobye/BOJ_Solution/blob/master/11655.py)|이름|성공| |
+|알고리즘|[11656](https://github.com/timetobye/BOJ_Solution/blob/master/11656.py)|이름|성공| |
+|알고리즘|[11719](https://github.com/timetobye/BOJ_Solution/blob/master/11719.py)|이름|성공| |
+|알고리즘|[11721](https://github.com/timetobye/BOJ_Solution/blob/master/11721.py)|이름|성공| |
+|알고리즘|[11722](https://github.com/timetobye/BOJ_Solution/blob/master/11722.py)|이름|성공| |
+|알고리즘|[11724](https://github.com/timetobye/BOJ_Solution/blob/master/11724.py)|이름|성공| |
+|알고리즘|[11726](https://github.com/timetobye/BOJ_Solution/blob/master/11726.py)|이름|성공| |
+|알고리즘|[11727](https://github.com/timetobye/BOJ_Solution/blob/master/11727.py)|이름|성공| |
+|알고리즘|[1181](https://github.com/timetobye/BOJ_Solution/blob/master/1181.py)|이름|성공| |
+|알고리즘|[1193](https://github.com/timetobye/BOJ_Solution/blob/master/1193.py)|이름|성공| |
+|알고리즘|[1199](https://github.com/timetobye/BOJ_Solution/blob/master/1199.py)|이름|성공| |
+|알고리즘|[1212](https://github.com/timetobye/BOJ_Solution/blob/master/1212.py)|이름|성공| |
+|알고리즘|[1225](https://github.com/timetobye/BOJ_Solution/blob/master/1225.py)|이름|성공| |
+|알고리즘|[1233](https://github.com/timetobye/BOJ_Solution/blob/master/1233.py)|이름|성공| |
+|알고리즘|[1260](https://github.com/timetobye/BOJ_Solution/blob/master/1260.py)|이름|성공| |
+|알고리즘|[1264](https://github.com/timetobye/BOJ_Solution/blob/master/1264.py)|이름|성공| |
+|알고리즘|[12790](https://github.com/timetobye/BOJ_Solution/blob/master/12790.py)|이름|성공| |
+|알고리즘|[12796](https://github.com/timetobye/BOJ_Solution/blob/master/12796.py)|이름|성공| |
+|알고리즘|[1292](https://github.com/timetobye/BOJ_Solution/blob/master/1292.py)|이름|성공| |
+|알고리즘|[1309](https://github.com/timetobye/BOJ_Solution/blob/master/1309.py)|이름|성공| |
+|알고리즘|[1316](https://github.com/timetobye/BOJ_Solution/blob/master/1316.py)|이름|성공| |
+|알고리즘|[1325](https://github.com/timetobye/BOJ_Solution/blob/master/1325.py)|이름|성공| |
+|알고리즘|[13300](https://github.com/timetobye/BOJ_Solution/blob/master/13300.py)|이름|성공| |
+|알고리즘|[1357](https://github.com/timetobye/BOJ_Solution/blob/master/1357.py)|이름|성공| |
+|알고리즘|[1371](https://github.com/timetobye/BOJ_Solution/blob/master/1371.py)|이름|성공| |
+|알고리즘|[1373](https://github.com/timetobye/BOJ_Solution/blob/master/1373.py)|이름|성공| |
+|알고리즘|[1406](https://github.com/timetobye/BOJ_Solution/blob/master/1406.py)|이름|성공| |
+|알고리즘|[1408](https://github.com/timetobye/BOJ_Solution/blob/master/1408.py)|이름|성공| |
+|알고리즘|[14490](https://github.com/timetobye/BOJ_Solution/blob/master/14490.py)|이름|성공| |
+|알고리즘|[14501](https://github.com/timetobye/BOJ_Solution/blob/master/14501.py)|이름|성공| |
+|알고리즘|[14502](https://github.com/timetobye/BOJ_Solution/blob/master/14502.py)|이름|성공| |
+|알고리즘|[1453](https://github.com/timetobye/BOJ_Solution/blob/master/1453.py)|이름|성공| |
+|알고리즘|[1463](https://github.com/timetobye/BOJ_Solution/blob/master/1463.py)|이름|성공| |
+|알고리즘|[14697](https://github.com/timetobye/BOJ_Solution/blob/master/14697.py)|이름|성공| |
+|알고리즘|[1475](https://github.com/timetobye/BOJ_Solution/blob/master/1475.py)|이름|성공| |
+|알고리즘|[1476](https://github.com/timetobye/BOJ_Solution/blob/master/1476.py)|이름|성공| |
+|알고리즘|[1520](https://github.com/timetobye/BOJ_Solution/blob/master/1520.py)|이름|성공| |
+|알고리즘|[1526](https://github.com/timetobye/BOJ_Solution/blob/master/1526.py)|이름|성공| |
+|알고리즘|[1547](https://github.com/timetobye/BOJ_Solution/blob/master/1547.py)|이름|성공| |
+|알고리즘|[15486](https://github.com/timetobye/BOJ_Solution/blob/master/15486.py)|이름|성공| |
+|알고리즘|[15552](https://github.com/timetobye/BOJ_Solution/blob/master/15552.py)|이름|성공| |
+|알고리즘|[15649](https://github.com/timetobye/BOJ_Solution/blob/master/15649.py)|이름|성공| |
+|알고리즘|[15680](https://github.com/timetobye/BOJ_Solution/blob/master/15680.py)|이름|성공| |
+|알고리즘|[15953](https://github.com/timetobye/BOJ_Solution/blob/master/15953.py)|이름|성공| |
+|알고리즘|[1598](https://github.com/timetobye/BOJ_Solution/blob/master/1598.py)|이름|성공| |
+|알고리즘|[1620](https://github.com/timetobye/BOJ_Solution/blob/master/1620.py)|이름|성공| |
+|알고리즘|[1647](https://github.com/timetobye/BOJ_Solution/blob/master/1647.py)|이름|성공| |
+|알고리즘|[1697](https://github.com/timetobye/BOJ_Solution/blob/master/1697.py)|이름|성공| |
+|알고리즘|[1699](https://github.com/timetobye/BOJ_Solution/blob/master/1699.py)|이름|성공| |
+|알고리즘|[1707](https://github.com/timetobye/BOJ_Solution/blob/master/1707.py)|이름|성공| |
+|알고리즘|[1712](https://github.com/timetobye/BOJ_Solution/blob/master/1712.py)|이름|성공| |
+|알고리즘|[1735](https://github.com/timetobye/BOJ_Solution/blob/master/1735.py)|이름|성공| |
+|알고리즘|[1748](https://github.com/timetobye/BOJ_Solution/blob/master/1748.py)|이름|성공| |
+|알고리즘|[1764](https://github.com/timetobye/BOJ_Solution/blob/master/1764.py)|이름|성공| |
+|알고리즘|[1769](https://github.com/timetobye/BOJ_Solution/blob/master/1769.py)|이름|성공| |
+|알고리즘|[1789](https://github.com/timetobye/BOJ_Solution/blob/master/1789.py)|이름|성공| |
+|알고리즘|[1850](https://github.com/timetobye/BOJ_Solution/blob/master/1850.py)|이름|성공| |
+|알고리즘|[1871](https://github.com/timetobye/BOJ_Solution/blob/master/1871.py)|이름|성공| |
+|알고리즘|[1874](https://github.com/timetobye/BOJ_Solution/blob/master/1874.py)|이름|성공| |
+|알고리즘|[1890](https://github.com/timetobye/BOJ_Solution/blob/master/1890.py)|이름|성공| |
+|알고리즘|[1912](https://github.com/timetobye/BOJ_Solution/blob/master/1912.py)|이름|성공| |
+|알고리즘|[1919](https://github.com/timetobye/BOJ_Solution/blob/master/1919.py)|이름|성공| |
+|알고리즘|[1922](https://github.com/timetobye/BOJ_Solution/blob/master/1922.py)|이름|성공| |
+|알고리즘|[1924](https://github.com/timetobye/BOJ_Solution/blob/master/1924.py)|이름|성공| |
+|알고리즘|[1929](https://github.com/timetobye/BOJ_Solution/blob/master/1929.py)|이름|성공| |
+|알고리즘|[1931](https://github.com/timetobye/BOJ_Solution/blob/master/1931.py)|이름|성공| |
+|알고리즘|[1932](https://github.com/timetobye/BOJ_Solution/blob/master/1932.py)|이름|성공| |
+|알고리즘|[1934](https://github.com/timetobye/BOJ_Solution/blob/master/1934.py)|이름|성공| |
+|알고리즘|[1964](https://github.com/timetobye/BOJ_Solution/blob/master/1964.py)|이름|성공| |
+|알고리즘|[1965](https://github.com/timetobye/BOJ_Solution/blob/master/1965.py)|이름|성공| |
+|알고리즘|[1966](https://github.com/timetobye/BOJ_Solution/blob/master/1966.py)|이름|성공| |
+|알고리즘|[1977](https://github.com/timetobye/BOJ_Solution/blob/master/1977.py)|이름|성공| |
+|알고리즘|[2004](https://github.com/timetobye/BOJ_Solution/blob/master/2004.py)|이름|성공| |
+|알고리즘|[2010](https://github.com/timetobye/BOJ_Solution/blob/master/2010.py)|이름|성공| |
+|알고리즘|[2011](https://github.com/timetobye/BOJ_Solution/blob/master/2011.py)|이름|성공| |
+|알고리즘|[2108](https://github.com/timetobye/BOJ_Solution/blob/master/2108.py)|이름|성공| |
+|알고리즘|[2110](https://github.com/timetobye/BOJ_Solution/blob/master/2110.py)|이름|성공| |
+|알고리즘|[2133](https://github.com/timetobye/BOJ_Solution/blob/master/2133.py)|이름|성공| |
+|알고리즘|[2145](https://github.com/timetobye/BOJ_Solution/blob/master/2145.py)|이름|성공| |
+|알고리즘|[2150](https://github.com/timetobye/BOJ_Solution/blob/master/2150.py)|이름|성공| |
+|알고리즘|[2153](https://github.com/timetobye/BOJ_Solution/blob/master/2153.py)|이름|성공| |
+|알고리즘|[2156](https://github.com/timetobye/BOJ_Solution/blob/master/2156.py)|이름|성공| |
+|알고리즘|[2163](https://github.com/timetobye/BOJ_Solution/blob/master/2163.py)|이름|성공| |
+|알고리즘|[2164](https://github.com/timetobye/BOJ_Solution/blob/master/2164.py)|이름|성공| |
+|알고리즘|[2167](https://github.com/timetobye/BOJ_Solution/blob/master/2167.py)|이름|성공| |
+|알고리즘|[2178](https://github.com/timetobye/BOJ_Solution/blob/master/2178.py)|이름|성공| |
+|알고리즘|[2193](https://github.com/timetobye/BOJ_Solution/blob/master/2193.py)|이름|성공| |
+|알고리즘|[2225](https://github.com/timetobye/BOJ_Solution/blob/master/2225.py)|이름|성공| |
+|알고리즘|[2231](https://github.com/timetobye/BOJ_Solution/blob/master/2231.py)|이름|성공| |
+|알고리즘|[2292](https://github.com/timetobye/BOJ_Solution/blob/master/2292.py)|이름|성공| |
+|알고리즘|[2293](https://github.com/timetobye/BOJ_Solution/blob/master/2293.py)|이름|성공| |
+|알고리즘|[2294](https://github.com/timetobye/BOJ_Solution/blob/master/2294.py)|이름|성공| |
+|알고리즘|[2303](https://github.com/timetobye/BOJ_Solution/blob/master/2303.py)|이름|성공| |
+|알고리즘|[2309](https://github.com/timetobye/BOJ_Solution/blob/master/2309.py)|이름|성공| |
+|알고리즘|[2312](https://github.com/timetobye/BOJ_Solution/blob/master/2312.py)|이름|성공| |
+|알고리즘|[2407](https://github.com/timetobye/BOJ_Solution/blob/master/2407.py)|이름|성공| |
+|알고리즘|[2410](https://github.com/timetobye/BOJ_Solution/blob/master/2410.py)|이름|성공| |
+|알고리즘|[2440](https://github.com/timetobye/BOJ_Solution/blob/master/2440.py)|이름|성공| |
+|알고리즘|[2441](https://github.com/timetobye/BOJ_Solution/blob/master/2441.py)|이름|성공| |
+|알고리즘|[2442](https://github.com/timetobye/BOJ_Solution/blob/master/2442.py)|이름|성공| |
+|알고리즘|[2445](https://github.com/timetobye/BOJ_Solution/blob/master/2445.py)|이름|성공| |
+|알고리즘|[2468](https://github.com/timetobye/BOJ_Solution/blob/master/2468.py)|이름|성공| |
+|알고리즘|[2495](https://github.com/timetobye/BOJ_Solution/blob/master/2495.py)|이름|성공| |
+|알고리즘|[2501](https://github.com/timetobye/BOJ_Solution/blob/master/2501.py)|이름|성공| |
+|알고리즘|[2525](https://github.com/timetobye/BOJ_Solution/blob/master/2525.py)|이름|성공| |
+|알고리즘|[2530](https://github.com/timetobye/BOJ_Solution/blob/master/2530.py)|이름|성공| |
+|알고리즘|[2566](https://github.com/timetobye/BOJ_Solution/blob/master/2566.py)|이름|성공| |
+|알고리즘|[2579](https://github.com/timetobye/BOJ_Solution/blob/master/2579.py)|이름|성공| |
+|알고리즘|[2581](https://github.com/timetobye/BOJ_Solution/blob/master/2581.py)|이름|성공| |
+|알고리즘|[2587](https://github.com/timetobye/BOJ_Solution/blob/master/2587.py)|이름|성공| |
+|알고리즘|[2592](https://github.com/timetobye/BOJ_Solution/blob/master/2592.py)|이름|성공| |
+|알고리즘|[2606](https://github.com/timetobye/BOJ_Solution/blob/master/2606.py)|이름|성공| |
+|알고리즘|[2631](https://github.com/timetobye/BOJ_Solution/blob/master/2631.py)|이름|성공| |
+|알고리즘|[2667](https://github.com/timetobye/BOJ_Solution/blob/master/2667.py)|이름|성공| |
+|알고리즘|[2675](https://github.com/timetobye/BOJ_Solution/blob/master/2675.py)|이름|성공| |
+|알고리즘|[2693](https://github.com/timetobye/BOJ_Solution/blob/master/2693.py)|이름|성공| |
+|알고리즘|[2702](https://github.com/timetobye/BOJ_Solution/blob/master/2702.py)|이름|성공| |
+|알고리즘|[2720](https://github.com/timetobye/BOJ_Solution/blob/master/2720.py)|이름|성공| |
+|알고리즘|[2740](https://github.com/timetobye/BOJ_Solution/blob/master/2740.py)|이름|성공| |
+|알고리즘|[2741](https://github.com/timetobye/BOJ_Solution/blob/master/2741.py)|이름|성공| |
+|알고리즘|[2742](https://github.com/timetobye/BOJ_Solution/blob/master/2742.py)|이름|성공| |
+|알고리즘|[2745](https://github.com/timetobye/BOJ_Solution/blob/master/2745.py)|이름|성공| |
+|알고리즘|[2747](https://github.com/timetobye/BOJ_Solution/blob/master/2747.py)|이름|성공| |
+|알고리즘|[2751](https://github.com/timetobye/BOJ_Solution/blob/master/2751.py)|이름|성공| |
+|알고리즘|[2752](https://github.com/timetobye/BOJ_Solution/blob/master/2752.py)|이름|성공| |
+|알고리즘|[2775](https://github.com/timetobye/BOJ_Solution/blob/master/2775.py)|이름|성공| |
+|알고리즘|[2798](https://github.com/timetobye/BOJ_Solution/blob/master/2798.py)|이름|성공| |
+|알고리즘|[2804](https://github.com/timetobye/BOJ_Solution/blob/master/2804.py)|이름|성공| |
+|알고리즘|[2805](https://github.com/timetobye/BOJ_Solution/blob/master/2805.py)|이름|성공| |
+|알고리즘|[2836](https://github.com/timetobye/BOJ_Solution/blob/master/2836.py)|이름|성공| |
+|알고리즘|[2845](https://github.com/timetobye/BOJ_Solution/blob/master/2845.py)|이름|성공| |
+|알고리즘|[2847](https://github.com/timetobye/BOJ_Solution/blob/master/2847.py)|이름|성공| |
+|알고리즘|[2851](https://github.com/timetobye/BOJ_Solution/blob/master/2851.py)|이름|성공| |
+|알고리즘|[2858](https://github.com/timetobye/BOJ_Solution/blob/master/2858.py)|이름|성공| |
+|알고리즘|[2864](https://github.com/timetobye/BOJ_Solution/blob/master/2864.py)|이름|성공| |
+|알고리즘|[2869](https://github.com/timetobye/BOJ_Solution/blob/master/2869.py)|이름|성공| |
+|알고리즘|[2884](https://github.com/timetobye/BOJ_Solution/blob/master/2884.py)|이름|성공| |
+|알고리즘|[2903](https://github.com/timetobye/BOJ_Solution/blob/master/2903.py)|이름|성공| |
+|알고리즘|[2947](https://github.com/timetobye/BOJ_Solution/blob/master/2947.py)|이름|성공| |
+|알고리즘|[2948](https://github.com/timetobye/BOJ_Solution/blob/master/2948.py)|이름|성공| |
+|알고리즘|[2960](https://github.com/timetobye/BOJ_Solution/blob/master/2960.py)|이름|성공| |
+|알고리즘|[2965](https://github.com/timetobye/BOJ_Solution/blob/master/2965.py)|이름|성공| |
+|알고리즘|[3029](https://github.com/timetobye/BOJ_Solution/blob/master/3029.py)|이름|성공| |
+|알고리즘|[3049](https://github.com/timetobye/BOJ_Solution/blob/master/3049.py)|이름|성공| |
+|알고리즘|[3052](https://github.com/timetobye/BOJ_Solution/blob/master/3052.py)|이름|성공| |
+|알고리즘|[3053](https://github.com/timetobye/BOJ_Solution/blob/master/3053.py)|이름|성공| |
+|알고리즘|[3059](https://github.com/timetobye/BOJ_Solution/blob/master/3059.py)|이름|성공| |
+|알고리즘|[3943](https://github.com/timetobye/BOJ_Solution/blob/master/3943.py)|이름|성공| |
+|알고리즘|[4195](https://github.com/timetobye/BOJ_Solution/blob/master/4195.py)|이름|성공| |
+|알고리즘|[4673](https://github.com/timetobye/BOJ_Solution/blob/master/4673.py)|이름|성공| |
+|알고리즘|[4998](https://github.com/timetobye/BOJ_Solution/blob/master/4998.py)|이름|성공| |
+|알고리즘|[5063](https://github.com/timetobye/BOJ_Solution/blob/master/5063.py)|이름|성공| |
+|알고리즘|[5337](https://github.com/timetobye/BOJ_Solution/blob/master/5337.py)|이름|성공| |
+|알고리즘|[5543](https://github.com/timetobye/BOJ_Solution/blob/master/5543.py)|이름|성공| |
+|알고리즘|[5565](https://github.com/timetobye/BOJ_Solution/blob/master/5565.py)|이름|성공| |
+|알고리즘|[5567](https://github.com/timetobye/BOJ_Solution/blob/master/5567.py)|이름|성공| |
+|알고리즘|[5575](https://github.com/timetobye/BOJ_Solution/blob/master/5575.py)|이름|성공| |
+|알고리즘|[5585](https://github.com/timetobye/BOJ_Solution/blob/master/5585.py)|이름|성공| |
+|알고리즘|[5622](https://github.com/timetobye/BOJ_Solution/blob/master/5622.py)|이름|성공| |
+|알고리즘|[5988](https://github.com/timetobye/BOJ_Solution/blob/master/5988.py)|이름|성공| |
+|알고리즘|[6064](https://github.com/timetobye/BOJ_Solution/blob/master/6064.py)|이름|성공| |
+|알고리즘|[6359](https://github.com/timetobye/BOJ_Solution/blob/master/6359.py)|이름|성공| |
+|알고리즘|[6588](https://github.com/timetobye/BOJ_Solution/blob/master/6588.py)|이름|성공| |
+|알고리즘|[6603](https://github.com/timetobye/BOJ_Solution/blob/master/6603.py)|이름|성공| |
+|알고리즘|[7576](https://github.com/timetobye/BOJ_Solution/blob/master/7576.py)|이름|성공| |
+|알고리즘|[8393](https://github.com/timetobye/BOJ_Solution/blob/master/8393.py)|이름|성공| |
+|알고리즘|[8958](https://github.com/timetobye/BOJ_Solution/blob/master/8958.py)|이름|성공| |
+|알고리즘|[9012](https://github.com/timetobye/BOJ_Solution/blob/master/9012.py)|이름|성공| |
+|알고리즘|[9020](https://github.com/timetobye/BOJ_Solution/blob/master/9020.py)|이름|성공| |
+|알고리즘|[9095](https://github.com/timetobye/BOJ_Solution/blob/master/9095.py)|이름|성공| |
+|알고리즘|[9251](https://github.com/timetobye/BOJ_Solution/blob/master/9251.py)|이름|성공| |
+|알고리즘|[9316](https://github.com/timetobye/BOJ_Solution/blob/master/9316.py)|이름|성공| |
+|알고리즘|[9372](https://github.com/timetobye/BOJ_Solution/blob/master/9372.py)|이름|성공| |
+|알고리즘|[9375](https://github.com/timetobye/BOJ_Solution/blob/master/9375.py)|이름|성공| |
+|알고리즘|[9461](https://github.com/timetobye/BOJ_Solution/blob/master/9461.py)|이름|성공| |
+|알고리즘|[9465](https://github.com/timetobye/BOJ_Solution/blob/master/9465.py)|이름|성공| |
+|알고리즘|[9498](https://github.com/timetobye/BOJ_Solution/blob/master/9498.py)|이름|성공| |
+|알고리즘|[9507](https://github.com/timetobye/BOJ_Solution/blob/master/9507.py)|이름|성공| |
+|알고리즘|[9613](https://github.com/timetobye/BOJ_Solution/blob/master/9613.py)|이름|성공| |
+|알고리즘|[9653](https://github.com/timetobye/BOJ_Solution/blob/master/9653.py)|이름|성공| |
+|알고리즘|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/9935.py)|이름|성공| |
