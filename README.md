@@ -23,8 +23,8 @@ Algorithm Summary
 ||[1009](https://github.com/timetobye/BOJ_Solution/blob/master/1009.py)|분산처리|성공| |
 |DP|[1010](https://github.com/timetobye/BOJ_Solution/blob/master/1010.py)|다리놓기|성공| |
 ||[1011](https://github.com/timetobye/BOJ_Solution/blob/master/1011.py)|Fly me to the Alpha Centauri|성공| |
-|알고리즘|[1012](https://github.com/timetobye/BOJ_Solution/blob/master/1012.py)|이름|성공| |
-|알고리즘|[1016](https://github.com/timetobye/BOJ_Solution/blob/master/1016.py)|이름|성공| |
+|BFS, DFS|[1012](https://github.com/timetobye/BOJ_Solution/blob/master/1012.py)|유기농 배추|성공| |
+|수학, 에라토스테네스의 체|[1016](https://github.com/timetobye/BOJ_Solution/blob/master/1016.py)|제곱 ㄴㄴ수|성공| |
 |알고리즘|[10026](https://github.com/timetobye/BOJ_Solution/blob/master/10026.py)|이름|성공| |
 |알고리즘|[10164](https://github.com/timetobye/BOJ_Solution/blob/master/10164.py)|이름|성공| |
 |알고리즘|[10172](https://github.com/timetobye/BOJ_Solution/blob/master/10172.py)|이름|성공| |
