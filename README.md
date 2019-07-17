@@ -2,7 +2,7 @@ BOJ_Solution
 ===========
 
 - BOJ(BAEKJOON Online Judge) solution
-- BOJ ID : time_to_bye
+- BOJ ID : [time_to_bye](https://www.acmicpc.net/user/time_to_bye)
 - Language : Python3
 
 Algorithm Problem result table
