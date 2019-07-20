@@ -6,6 +6,7 @@ BOJ_Solution
 - BOJ(BAEKJOON Online Judge) solution
 - BOJ ID : [time_to_bye](https://www.acmicpc.net/user/time_to_bye)
 - Language : Python3
+- 문제 이름, 문제 번호로 검색하시면 풀이를 찾을 수 있습니다. 풀이가 없을 경우 안 풀었거나 못 풀은 겁니다.
 
 :computer: **알고리즘 풀이는 이렇게 했습니다**
 - 1시간 정도 고민한 후에도 막힐 경우 검색을 해서 풀었습니다.
@@ -19,6 +20,7 @@ BOJ_Solution
 
 :night_with_stars: **Thanks to**
 - 알고리즘 처음 접하게 해주신 Derrick 님, 어려운 알고리즘도 항상 이해하기 쉽게 설명해줬던 Luke 님께 감사드립니다.
+- 산타 할아버지처럼 알고리즘 문제를 선물해주시는 jayce에게도 감사드립니다. ~~인생이란ㅎㅎㅎ~~
 - 자신의 풀이를 인터넷에 포스팅 해주시는 선구자 분들께도 항상 심심한 경의를 표합니다.
 
 :expressionless: 넋두리
