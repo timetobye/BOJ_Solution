@@ -1,13 +1,33 @@
 BOJ_Solution
 ===========
+![alt text](https://img.shields.io/badge/Python-3.7-red.svg)
+![alt text](https://img.shields.io/badge/BOJ-Algorithm-blue.svg)
 
 - BOJ(BAEKJOON Online Judge) solution
 - BOJ ID : [time_to_bye](https://www.acmicpc.net/user/time_to_bye)
 - Language : Python3
 
+:computer: **알고리즘 풀이는 이렇게 했습니다**
+- 1시간 정도 고민한 후에도 막힐 경우 검색을 해서 풀었습니다.
+- 주석을 달으려고 노력 중 입니다. 미래의 내가 다시 볼 때를 위해, 어느 누군가가 제 코드를 보고 도움이 되길 바라며.
+
+:bell: **To-Do list**
+- [ ] 개발 초기에 풀었던 코드 수정 업데이트
+  - 개발을 처음 배울 때 부터 시작 했기 때문에 코드의 질이 떨어지는 풀이도 있습니다. 향후 업데이트 할 예정입니다.
+- [ ] 매주 3 문제 이상 풀기
+  - 풀이에 대한 주석 달기
+
+:night_with_stars: **Thanks to**
+- 알고리즘 처음 접하게 해주신 Derrick 님, 어려운 알고리즘도 항상 이해하기 쉽게 설명해줬던 Luke 님께 감사드립니다.
+- 자신의 풀이를 인터넷에 포스팅 해주시는 선구자 분들께도 항상 심심한 경의를 표합니다.
+
+:expressionless: 넋두리
+- 가끔 혼자 풀다보면 외롭다는 느낌이 들기도 합니다.^^;;
+
 Algorithm Problem result table
 ==================================================
 - 알고리즘 종류는 차근차근 업데이트 할 예정입니다.
+- 실패한 문제가 성공으로 입력 된 경우가 있습니다.(확인 중 - 약 98%는 성공입니다.)
 
 |알고리즘 종류|문항번호|문제 이름|성공 여부|비고|
 |---|---|---|---|---|
