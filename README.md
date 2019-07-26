@@ -24,7 +24,7 @@ BOJ_Solution
 - 자신의 풀이를 인터넷에 포스팅 해주시는 선구자 분들께도 항상 심심한 경의를 표합니다.
 
 :expressionless: 넋두리
-- 가끔 혼자 풀다보면 외롭다는 느낌이 들기도 합니다.^^;;
+- 가끔 혼자 풀다보면 외롭다는 느낌이 들기도 합니다.^^;
 
 Algorithm Problem result table
 ==================================================
@@ -282,6 +282,7 @@ Algorithm Problem result table
 |알고리즘|[9613](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9613.py)|GCD 합|성공| |
 |알고리즘|[9653](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9653.py)|스타워즈 로고|성공| |
 |알고리즘|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9935.py)|문자열 폭발|성공| |
+||[1330](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1330.py)|두 수 비교하기|성공| |
 
 
 
