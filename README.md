@@ -283,6 +283,6 @@ Algorithm Problem result table
 |알고리즘|[9653](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9653.py)|스타워즈 로고|성공| |
 |알고리즘|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9935.py)|문자열 폭발|성공| |
 ||[1330](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1330.py)|두 수 비교하기|성공| |
-
+||[4504](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4504.py)|배수 찾기|성공| |
 
 
