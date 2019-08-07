@@ -42,9 +42,9 @@ Algorithm Problem result table
 |BFS, DFS|[1012](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1012.py)|유기농 배추|성공| |
 |수학, 에라토스테네스의 체|[1016](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1016.py)|제곱 ㄴㄴ수|성공| |
 |DP|[10164](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10164.py)|격자상의 경로|성공| |
-|출|[10172](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10172.py)|개|성공| |
+|출력|[10172](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10172.py)|개|성공| |
 |브루트 포스, 시뮬레이|[1018](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1018.py)|체스판 다시 칠하기|성공| |
-|수학, 브루트포스, 재귀 호출, 탐색|[1019](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1019.py)|책 페이지|실| |
+|수학, 브루트포스, 재귀 호출, 탐색|[1019](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1019.py)|책 페이지|실패| |
 |시뮬레이션|[1021](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1021.py)|회전하는 큐|성공| |
 |알고리즘|[10250](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10250.py)|ACM 호텔|성공| |
 |알고리즘|[1026](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1026.py)|보물|성공| |
