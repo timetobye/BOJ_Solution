@@ -288,3 +288,5 @@ Algorithm Problem result table
 |DP|[1937](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1937.py)|욕심쟁이 판다|성공|막히는 부분 참고함|
 |DP|[2096](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2096.py)|내려가기|성공|메모리 초과 주의|
 |그리디 알고리즘|[2875](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2875.py)|대회 or 인턴|성공||
+|스택|[10828](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10828.py)|스택|성공||
+|큐|[10845](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10845.py)|큐|성공||
