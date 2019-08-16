@@ -290,3 +290,4 @@ Algorithm Problem result table
 |그리디 알고리즘|[2875](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2875.py)|대회 or 인턴|성공||
 |스택|[10828](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10828.py)|스택|성공||
 |큐|[10845](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10845.py)|큐|성공||
+|정렬|[10814](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10814.py)|정렬|성공|int 처리 필수|
