@@ -10,3 +10,5 @@ def fibo(n):
 n = int(input())
 
 print(fibo(n))
+
+

@@ -26,7 +26,7 @@ BOJ_Solution
 :expressionless: 넋두리
 - 가끔 혼자 풀다보면 외롭다는 느낌이 들기도 합니다.^^;
 
-Algorithm Problem result table
+Algorithm Problem Solving result table
 ==================================================
 - 알고리즘 종류는 차근차근 업데이트 할 예정입니다.
 - 실패한 문제가 성공으로 입력 된 경우가 있습니다.(확인 중 - 약 98%는 성공입니다.)
@@ -62,7 +62,7 @@ Algorithm Problem result table
 |알고리즘|[10820](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10820.py)|문자열 분석|성공| |
 |알고리즘|[10824](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10824.py)|네 수|성공| |
 |알고리즘|[10826](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10826.py)|피보나치 수 4|성공| |
-|알고리즘|[10835](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10835.py)|카드게임|성공| |
+|DP|[10835](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10835.py)|카드게임|실| |
 |알고리즘|[10844](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10844.py)|쉬운 계단 수|성공| |
 |알고리즘|[10866](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10866.py)|덱|성공| |
 |알고리즘|[10869](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10869.py)|사칙연산|성공| |
@@ -111,7 +111,7 @@ Algorithm Problem result table
 |알고리즘|[11727](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11727.py)|2×n 타일링 2|성공| |
 |알고리즘|[1181](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1181.py)|단어 정렬|성공| |
 |알고리즘|[1193](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1193.py)|분수찾기|성공| |
-|알고리즘|[1199](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1199.py)|오일러 회로|성공| |
+|오일러 회로|[1199](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1199.py)|오일러 회로|실패|이 문제 나를 너무 힘들게 함... |
 |알고리즘|[1212](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1212.py)|8진수 2진수|성공| |
 |알고리즘|[1225](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1225.py)|이상한 곱셈|성공| |
 |알고리즘|[1233](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1233.py)|주사위|성공| |
@@ -147,7 +147,7 @@ Algorithm Problem result table
 |알고리즘|[15953](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15953.py)|상금 헌터|성공| |
 |알고리즘|[1598](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1598.py)|꼬리를 무는 숫자 나열|성공| |
 |알고리즘|[1620](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1620.py)|나는야 포켓몬 마스터 이다솜|성공| |
-|알고리즘|[1647](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1647.py)|도시 분할 계획|성공| |
+|최소 스패닝 트리|[1647](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1647.py)|도시 분할 계획|실| |
 |알고리즘|[1697](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1697.py)|숨바꼭질|성공| |
 |알고리즘|[1699](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1699.py)|제곱수의 합|성공| |
 |알고리즘|[1707](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1707.py)|이분 그래프|성공| |
@@ -223,7 +223,7 @@ Algorithm Problem result table
 |알고리즘|[2741](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2741.py)|N 찍기|성공| |
 |알고리즘|[2742](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2742.py)|기찍 N|성공| |
 |알고리즘|[2745](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2745.py)|진법 변환|성공| |
-|알고리즘|[2747](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2747.py)|피보나치 수|성공| |
+||[2747](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2747.py)|피보나치 수|성공| |
 |알고리즘|[2751](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2751.py)|수 정렬하기 2|성공| |
 |알고리즘|[2752](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2752.py)|세수정렬|성공| |
 |알고리즘|[2775](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2775.py)|부녀회장이 될테야|성공| |
@@ -281,7 +281,7 @@ Algorithm Problem result table
 |알고리즘|[9507](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9507.py)|Generations of Tribbles|성공| |
 |알고리즘|[9613](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9613.py)|GCD 합|성공| |
 |알고리즘|[9653](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9653.py)|스타워즈 로고|성공| |
-|알고리즘|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9935.py)|문자열 폭발|성공| |
+|스택, 문자열 처리|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9935.py)|문자열 폭발|실패| |
 ||[1330](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1330.py)|두 수 비교하기|성공| |
 ||[4504](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4504.py)|배수 찾기|성공| |
 |DP|[1904](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1904.py)|01타일|성공| |
