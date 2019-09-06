@@ -292,3 +292,4 @@ Algorithm Problem Solving result table
 |큐|[10845](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10845.py)|큐|성공||
 |정렬|[10814](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10814.py)|정렬|성공|int 처리 필수|
 ||[2753](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2753.py)|윤년|성공||
+|DP|[9252](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9252.py)|LCS2|성공|역추적 아이디어!|
