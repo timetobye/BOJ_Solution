@@ -293,3 +293,4 @@ Algorithm Problem Solving result table
 |정렬|[10814](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10814.py)|정렬|성공|int 처리 필수|
 ||[2753](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2753.py)|윤년|성공||
 |DP|[9252](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9252.py)|LCS2|성공|역추적 아이디어!|
+||[10818](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10818.py)|최소, 최대|성공||
