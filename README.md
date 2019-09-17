@@ -294,3 +294,4 @@ Algorithm Problem Solving result table
 ||[2753](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2753.py)|윤년|성공||
 |DP|[9252](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9252.py)|LCS2|성공|역추적 아이디어!|
 ||[10818](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10818.py)|최소, 최대|성공||
+||[2588](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2588.py)|곱셈|성공||
