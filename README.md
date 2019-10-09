@@ -295,3 +295,5 @@ Algorithm Problem Solving result table
 |DP|[9252](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9252.py)|LCS2|성공|역추적 아이디어!|
 ||[10818](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10818.py)|최소, 최대|성공||
 ||[2588](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2588.py)|곱셈|성공||
+|그리디, 브루트 포스, 문자열처리, 시뮬레이션|[1120](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1120.py)|문자열|성공|브루트 포스로 해|
+|bfs, dfs, 플로이드 와샬|[11403](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11403.py)|경로 찾기|성공|bfs로 해결|
