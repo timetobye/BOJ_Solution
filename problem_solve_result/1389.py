@@ -10,7 +10,7 @@ from sys import stdin
 
 n, m = [int(x) for x in stdin.readline().split()]
 
-adjacency_list = [[] for _ in range(m + 1)]
+adjacency_list = [[] for _ in range(n + 1)]
 
 for i in range(m):
     friend_number_one, friend_number_two = [int(x) for x in stdin.readline().split()]
@@ -25,8 +25,8 @@ for i, value in enumerate(adjacency_list):
 def bfs(start_v):
     q = deque()
     q.append(start_v)
-    visited = ["white" for i in range(m+1)]
-    distance_list = [0 for i in range(m+1)]
+    visited = ["white" for i in range(n+1)]
+    distance_list = [0 for i in range(n+1)]
     visited[start_v] = 'gray'
 
     while q:
@@ -37,15 +37,16 @@ def bfs(start_v):
                 visited[v] = 'gray'
                 q.append(v)
                 distance_list[v] = distance_list[u] + 1
-    print(distance_list)
+
     return sum(distance_list)
 
 
 sum_distance_result = []
 
-for i in range(1, m+1):
+for i in range(1, n+1):
     value = bfs(i)
     sum_distance_result.append(value)
+
 
 print(sum_distance_result.index(min(sum_distance_result)) + 1)
 
