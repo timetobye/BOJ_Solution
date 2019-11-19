@@ -299,3 +299,4 @@ Algorithm Problem Solving result table
 |bfs, dfs, 플로이드 와샬|[11403](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11403.py)|경로 찾기|성공|bfs로 해결|
 |bfs, dfs, 플로이드 와샬|[1389](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1389.py)|케빈 베이컨의 6단계 법칙|성공|bfs로 풀음|
 |bfs|[2644](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2644.py)|촌수계산|성공|bfs로 풀음|
+|구현|[4153](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4153.py)|직각삼각형|성공|피타고라스정리|
