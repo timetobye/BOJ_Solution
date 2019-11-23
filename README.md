@@ -2,7 +2,7 @@ BOJ_Solution
 ===========
 ![alt text](https://img.shields.io/badge/Python-3.7-red.svg)
 ![alt text](https://img.shields.io/badge/BOJ-Algorithm-blue.svg)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/timetobye/BOJ_Solution)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/timetobye/BOJ_Solution)](https://hits.seeyoufarm.com)
 
 - BOJ(BAEKJOON Online Judge) solution
 - BOJ ID : [time_to_bye](https://www.acmicpc.net/user/time_to_bye)
