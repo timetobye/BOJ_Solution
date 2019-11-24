@@ -303,3 +303,4 @@ Algorithm Problem Solving result table
 |구현|[4153](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4153.py)|직각삼각형|성공|피타고라스정리|
 |수학, 탐색|[1145](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1145.py)|적어도 대부분의 배수|성공|공배수로 안품|
 ||[12813](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/12813.py)|이진수 연산|성공|TSP 풀려고 공부 중|
+|탐색|[1436](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1436.py)|영화감독 숌|성공|정규식으로 풀음|
