@@ -1,7 +1,8 @@
 """
 개판으로 풀었네..ㅠ
-
 """
+import sys
+sys.setrecursionlimit(1000000)
 
 n = int(input())
 parents = [int(x) for x in input().split()]
@@ -17,17 +18,23 @@ for u, v in enumerate(parents):
         continue
     r[v].append(u)
 
-parent_vectors += r[delete_node_number]
+# parent_vectors += r[delete_node_number]
 
+
+# print(r)
 for i in range(n):
     if delete_node_number in r[i]:
         r[i].remove(delete_node_number)
 
+# print(r)
+
 r[delete_node_number] = []
 
+# print(r)
+
 color = ['white' for i in range(n)]
-start = [9999999 for i in range(n)]  # start timestamp
-end = [9999999 for i in range(n)]  # end timestamp
+start = [0 for i in range(n)]  # start timestamp
+end = [0 for i in range(n)]  # end timestamp
 
 timestamp = 0
 
@@ -47,14 +54,19 @@ def dfs(u):
 
 
 for i in parent_vectors:
-    if len(r[i]) != 0:
-    # print(i)
-        dfs(i)
+    if len(parent_vectors) == 0:
+        if len(r[i]) == 0:
+
+            continue
+
+    dfs(i)
 
 
 count = 0
 for i in range(n):
     if (end[i] - start[i]) == 1:
-        count +=1
+        count += 1
 
 print(count)
+print(parent_vectors)
+print(start, end)
