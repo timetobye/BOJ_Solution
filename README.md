@@ -309,3 +309,4 @@ Algorithm Problem Solving result table
 ||[15650](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15650.py)|N과 M(2)|성공|백트래킹 입문|
 ||[15651](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15651.py)|N과 M(3)|성공|백트래킹 입문|
 ||[15652](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15652.py)|N과 M(4)|성공|백트래킹 입문|
+||[15596](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15596.py)|정수 N개의 합|성공||
