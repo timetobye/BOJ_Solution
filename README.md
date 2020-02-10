@@ -224,7 +224,7 @@ Algorithm Problem Solving result table
 |알고리즘|[2741](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2741.py)|N 찍기|성공| |
 |알고리즘|[2742](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2742.py)|기찍 N|성공| |
 |알고리즘|[2745](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2745.py)|진법 변환|성공| |
-||[2747](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2747.py)|피보나치 수|성공| |
+|DP|[2748](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2748.py)|피보나치 수2|성공| |
 |알고리즘|[2751](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2751.py)|수 정렬하기 2|성공| |
 |알고리즘|[2752](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2752.py)|세수정렬|성공| |
 |알고리즘|[2775](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2775.py)|부녀회장이 될테야|성공| |
