@@ -312,3 +312,4 @@ Algorithm Problem Solving result table
 ||[15596](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15596.py)|정수 N개의 합|성공||
 ||[15786](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15786.py)|Send me the money|성공||
 ||[5430](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/5430.py)|AC|실패|코드를 다시 짜야 할 듯..|
+||[2563](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2563.py)|색종이|성공|배열 배열 배열|
