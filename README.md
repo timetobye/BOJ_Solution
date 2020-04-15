@@ -304,7 +304,7 @@ Algorithm Problem Solving result table
 ||[12813](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/12813.py)|이진수 연산|성공|TSP 풀려고 공부 중|
 |탐색|[1436](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1436.py)|영화감독 숌|성공|정규식으로 풀음|
 |그래프, 그래프 이론|[4963](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4963.py)|섬의 개수|성공|bfs|
-|그래프, 그래프 이론|[1068](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1068.py)|트리|실패|dfs인거 같은데...|
+|그래프, 그래프 이론|[1068](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1068.py)|트리|성공|root도 지울 수 있다.|
 ||[15650](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15650.py)|N과 M(2)|성공|백트래킹 입문|
 ||[15651](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15651.py)|N과 M(3)|성공|백트래킹 입문|
 ||[15652](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/15652.py)|N과 M(4)|성공|백트래킹 입문|
