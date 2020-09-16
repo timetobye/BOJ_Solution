@@ -92,7 +92,7 @@ Algorithm Problem Solving result table
 |알고리즘|[1110](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1110.py)|더하기 사이클|성공| |
 |알고리즘|[11365](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11365.py)|!밀비 급일|성공| |
 |알고리즘|[11399](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11399.py)|ATM|성공| |
-|알고리즘|[1149](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1149.py)|RGB거리|성공| |
+|DP|[1149](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1149.py)|RGB거리|성공| |
 |알고리즘|[1157](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1157.py)|단어 공부|성공| |
 |알고리즘|[11576](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11576.py)|Base Conversion|성공| |
 |알고리즘|[1158](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1158.py)|조세퍼스 문제|성공| |
@@ -208,7 +208,7 @@ Algorithm Problem Solving result table
 |알고리즘|[2525](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2525.py)|오븐 시계|성공| |
 |알고리즘|[2530](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2530.py)|인공지능 시계|성공| |
 |알고리즘|[2566](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2566.py)|최댓값|성공| |
-|알고리즘|[2579](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2579.py)|계단 오르기|성공| |
+|DP|[2579](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2579.py)|계단 오르기|성공| |
 |알고리즘|[2581](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2581.py)|소수|성공| |
 |알고리즘|[2587](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2587.py)|대표값2|성공| |
 |알고리즘|[2592](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2592.py)|대표값|성공| |

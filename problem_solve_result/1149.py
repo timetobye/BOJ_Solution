@@ -4,6 +4,7 @@ for i in range(n):
     temp = [int(x) for x in input().split()]
     arr.append(temp)
 
+# dp[j][i] : j, i 에 칠할 수 있는 최소 비용 // 문제를 풀 때 DP의 정의를 빠뜨리지 말자.
 dp = [[0 for j in range(3)] for i in range(n)]
 
 for i in range(n):
