@@ -313,3 +313,4 @@ Algorithm Problem Solving result table
 ||[5430](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/5430.py)|AC|실패|코드를 다시 짜야 할 듯..|
 ||[2563](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2563.py)|색종이|성공|배열 배열 배열|
 |구현, 기하학|[14681](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/14681.py)|사분면 고르기|성공|더 나은 방법이..?|
+|구현, 기하학|[3009](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/3009.py)|네 번째 점|성공|-|
