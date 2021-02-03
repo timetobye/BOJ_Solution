@@ -43,6 +43,28 @@ def main():
     print(memo[n])
 
 
+"""
+더 간결하게 작성
+2021.02.03
+"""
+
+
+def main_2():
+    n = int(input())
+    dp = [None for _ in range(n+1)]
+    dp[0], dp[1] = [0, 1]
+
+    def calc_dp(n):
+        if dp[n] is None:
+            dp[n] = calc_dp(n-1) + calc_dp(n-2)
+
+        return dp[n]
+
+
+    calc_dp(n)
+    print(dp[n])
+
+
 if __name__ == "__main__":
     main()
 
