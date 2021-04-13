@@ -317,3 +317,4 @@ Algorithm Problem Solving result table
 |큐|[18258](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/18258.py)|큐2|성공|큐 문제랑 같음|
 |수학, 구현, 사칙연산|[2455](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2455.py)|지능형 기차|성공|최대값 기억하는 문제|
 |수학, 브루트포스 알고리즘, 조합론, 백트래킹|[1759](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1759.py)|암호 만들기|성공|조건을 확인하고 처리|
+|구현, 문자열|[1259](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1259.py)|팰린드롬수|성공|-|
