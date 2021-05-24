@@ -318,3 +318,4 @@ Algorithm Problem Solving result table
 |수학, 구현, 사칙연산|[2455](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2455.py)|지능형 기차|성공|최대값 기억하는 문제|
 |수학, 브루트포스 알고리즘, 조합론, 백트래킹|[1759](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1759.py)|암호 만들기|성공|조건을 확인하고 처리|
 |구현, 문자열|[1259](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1259.py)|팰린드롬수|성공|-|
+|구현, 브루트포스|[7568](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/7568.py)|덩치|성공|문제를 정확히 읽고 정의대로 풀자|
