@@ -5,7 +5,6 @@ def sliding_window(nums, target_number):
 
     for window_end in range(len(nums)):
         window_sum += nums[window_end]
-        # print(window_sum)
 
         while window_sum >= target_number:
             if window_sum == target_number:
