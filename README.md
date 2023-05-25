@@ -1,23 +1,15 @@
-BOJ_Solution
-===========
-![alt text](https://img.shields.io/badge/Python-3.7-red.svg)
+## BAEKJOON Online Judge Solution
+
+![alt text](https://img.shields.io/badge/Python-3.7+-red.svg)
 ![alt text](https://img.shields.io/badge/BOJ-Algorithm-blue.svg)
 
-- BOJ(BAEKJOON Online Judge) solution
-- BOJ ID : [time_to_bye](https://www.acmicpc.net/user/time_to_bye)
-- Language : Python3
-- 문제 이름, 문제 번호로 검색하시면 풀이를 찾을 수 있습니다. 풀이가 없을 경우 안 풀었거나 못 풀은 겁니다.
-
-:computer: **알고리즘 풀이는 이렇게 했습니다**
+[BAEKJOON Online Judge](https://www.acmicpc.net/) 문제 풀이 기록입니다.
+- 사용 언어 : Python3 
+- 문제 이름, 문제 번호로 검색을 하면 풀이를 찾을 수 있습니다. 검색이 되지 않을 경우 안 풀었거나 못 풀은 경우 입니다.
 - 1시간 정도 고민한 후에도 막힐 경우 검색을 해서 풀었습니다.
-- 주석을 달으려고 노력 중 입니다. 미래의 내가 다시 볼 때를 위해, 어느 누군가가 제 코드를 보고 도움이 되길 바라며.
+- 풀이에 주석이 있는 경우도 있습니다. 가급적 주석을 작성하고 있습니다.
 
-:night_with_stars: **Thanks to**
-- 알고리즘 처음 접하게 해주신 Derrick 님, 어려운 알고리즘도 항상 이해하기 쉽게 설명해줬던 Luke 님께 감사드립니다.
-- 산타 할아버지처럼 알고리즘 문제를 선물해주셨던 J에게도 감사드립니다.
-
-Algorithm Problem Solving result table
-==================================================
+## Results
 
 |알고리즘 종류|문항번호|문제 이름|성공 여부|비고|
 |---|---|---|---|---|
@@ -34,7 +26,7 @@ Algorithm Problem Solving result table
 |브루트 포스, 시뮬레이|[1018](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1018.py)|체스판 다시 칠하기|성공| |
 |수학, 브루트포스, 재귀 호출, 탐색|[1019](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1019.py)|책 페이지|실패| |
 |시뮬레이션|[1021](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1021.py)|회전하는 큐|성공| |
-|-|[10250](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10250.py)|ACM 호텔|성공| |
+|수학, 구현, 사칙연산|[10250](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10250.py)|ACM 호텔|성공| |
 |-|[1026](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1026.py)|보물|성공| |
 |-|[1037](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1037.py)|약수|성공| |
 |-|[1038](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1038.py)|감소하는 수|성공| |
@@ -270,8 +262,8 @@ Algorithm Problem Solving result table
 |-|[9613](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9613.py)|GCD 합|성공| |
 |-|[9653](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9653.py)|스타워즈 로고|성공| |
 |스택, 문자열 처리|[9935](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9935.py)|문자열 폭발|실패| |
-||[1330](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1330.py)|두 수 비교하기|성공| |
-||[4504](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4504.py)|배수 찾기|성공| |
+|-|[1330](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1330.py)|두 수 비교하기|성공| |
+|-|[4504](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/4504.py)|배수 찾기|성공| |
 |DP|[1904](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1904.py)|01타일|성공| |
 |DP|[1937](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1937.py)|욕심쟁이 판다|성공|막히는 부분 참고함|
 |DP|[2096](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2096.py)|내려가기|성공|메모리 초과 주의|
@@ -279,10 +271,10 @@ Algorithm Problem Solving result table
 |스택|[10828](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10828.py)|스택|성공||
 |큐|[10845](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10845.py)|큐|성공||
 |정렬|[10814](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10814.py)|정렬|성공|int 처리 필수|
-||[2753](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2753.py)|윤년|성공||
+|-|[2753](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2753.py)|윤년|성공||
 |DP|[9252](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/9252.py)|LCS2|성공|역추적 아이디어!|
-||[10818](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10818.py)|최소, 최대|성공||
-||[2588](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2588.py)|곱셈|성공||
+|-|[10818](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/10818.py)|최소, 최대|성공||
+|-|[2588](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/2588.py)|곱셈|성공||
 |그리디, 브루트 포스, 문자열처리, 시뮬레이션|[1120](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1120.py)|문자열|성공|브루트 포스로 해|
 |bfs, dfs, 플로이드 와샬|[11403](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/11403.py)|경로 찾기|성공|bfs로 해결|
 |bfs, dfs, 플로이드 와샬|[1389](https://github.com/timetobye/BOJ_Solution/blob/master/problem_solve_result/1389.py)|케빈 베이컨의 6단계 법칙|성공|bfs로 풀음|
